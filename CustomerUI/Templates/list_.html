@@ -1,0 +1,30 @@
+﻿<h3>List Customers</h3>
+
+<table class="sample-show-hide table ">
+    <thead>
+        <tr>
+            <th>Código</th>
+            <th>Nombre</th>
+            <th>Ciudad</th>
+            <th>Estado</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="c in Zona">
+            <td ng-class-odd="'odd'">
+                <button class=" btn" ng-click="editCustomer($index)">
+                    <span class="glyphicon glyphicon-pencil" style="color:blue"></span>&nbsp;&nbsp;Edit
+                </button>
+                <button class="btn" ng-click="delCustomer(c.Id)">
+                    <span class="glyphicon glyphicon-remove" style="color:red"></span>&nbsp;&nbsp;Delete
+                </button>
+
+
+            </td>
+            <td ng-class-odd="'odd'">{{ c.Codigo }}</td>
+            <td ng-class-odd="'odd'">{{ c.Nombre }}</td>
+            <td ng-class-odd="'odd'">{{ c.CiudadId }}</td>
+            <td ng-class-odd="'odd'">{{ c.Estado }}</td>
+        </tr>
+    </tbody>
+</table>

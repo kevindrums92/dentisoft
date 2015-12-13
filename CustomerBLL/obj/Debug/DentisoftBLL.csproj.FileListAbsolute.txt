@@ -1,0 +1,11 @@
+E:\Desarrollo\TECNIDENT\CustomerBLL\bin\Debug\CustomerBLL.dll
+E:\Desarrollo\TECNIDENT\CustomerBLL\bin\Debug\CustomerBLL.pdb
+E:\Desarrollo\TECNIDENT\CustomerBLL\bin\Debug\CustomerDAL.dll
+E:\Desarrollo\TECNIDENT\CustomerBLL\bin\Debug\CustomerEntities.dll
+E:\Desarrollo\TECNIDENT\CustomerBLL\bin\Debug\EntityFramework.dll
+E:\Desarrollo\TECNIDENT\CustomerBLL\bin\Debug\CustomerDAL.pdb
+E:\Desarrollo\TECNIDENT\CustomerBLL\bin\Debug\CustomerEntities.pdb
+E:\Desarrollo\TECNIDENT\CustomerBLL\bin\Debug\EntityFramework.xml
+E:\Desarrollo\TECNIDENT\CustomerBLL\obj\Debug\DentisoftBLL.csprojResolveAssemblyReference.cache
+E:\Desarrollo\TECNIDENT\CustomerBLL\obj\Debug\CustomerBLL.dll
+E:\Desarrollo\TECNIDENT\CustomerBLL\obj\Debug\CustomerBLL.pdb

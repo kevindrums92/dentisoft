@@ -1,0 +1,11 @@
+E:\Desarrollo\TECNIDENT\CustomerDAL\bin\Debug\CustomerDAL.dll
+E:\Desarrollo\TECNIDENT\CustomerDAL\bin\Debug\CustomerDAL.pdb
+E:\Desarrollo\TECNIDENT\CustomerDAL\bin\Debug\CustomerEntities.dll
+E:\Desarrollo\TECNIDENT\CustomerDAL\bin\Debug\EntityFramework.dll
+E:\Desarrollo\TECNIDENT\CustomerDAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Desarrollo\TECNIDENT\CustomerDAL\bin\Debug\CustomerEntities.pdb
+E:\Desarrollo\TECNIDENT\CustomerDAL\bin\Debug\EntityFramework.xml
+E:\Desarrollo\TECNIDENT\CustomerDAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Desarrollo\TECNIDENT\CustomerDAL\obj\Debug\DentisoftDAL.csprojResolveAssemblyReference.cache
+E:\Desarrollo\TECNIDENT\CustomerDAL\obj\Debug\CustomerDAL.dll
+E:\Desarrollo\TECNIDENT\CustomerDAL\obj\Debug\CustomerDAL.pdb

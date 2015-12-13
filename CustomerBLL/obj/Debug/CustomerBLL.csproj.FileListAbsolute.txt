@@ -1,0 +1,11 @@
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerBLL\bin\Debug\CustomerBLL.dll
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerBLL\bin\Debug\CustomerBLL.pdb
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerBLL\bin\Debug\CustomerDAL.dll
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerBLL\bin\Debug\CustomerEntities.dll
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerBLL\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerBLL\bin\Debug\CustomerDAL.pdb
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerBLL\bin\Debug\CustomerEntities.pdb
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerBLL\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerBLL\obj\Debug\CustomerBLL.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerBLL\obj\Debug\CustomerBLL.dll
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerBLL\obj\Debug\CustomerBLL.pdb

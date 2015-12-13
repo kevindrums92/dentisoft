@@ -1,0 +1,10 @@
+E:\Desarrollo\TECNIDENT\CustomerEntities\bin\DentisoftEntities.dll.config
+E:\Desarrollo\TECNIDENT\CustomerEntities\bin\DentisoftEntities.dll
+E:\Desarrollo\TECNIDENT\CustomerEntities\bin\DentisoftEntities.pdb
+E:\Desarrollo\TECNIDENT\CustomerEntities\bin\EntityFramework.dll
+E:\Desarrollo\TECNIDENT\CustomerEntities\bin\EntityFramework.SqlServer.dll
+E:\Desarrollo\TECNIDENT\CustomerEntities\bin\EntityFramework.xml
+E:\Desarrollo\TECNIDENT\CustomerEntities\bin\EntityFramework.SqlServer.xml
+E:\Desarrollo\TECNIDENT\CustomerEntities\obj\Debug\DentisoftEntities.dll
+E:\Desarrollo\TECNIDENT\CustomerEntities\obj\Debug\DentisoftEntities.pdb
+E:\Desarrollo\TECNIDENT\CustomerEntities\obj\Debug\DentisoftEntities.csprojResolveAssemblyReference.cache

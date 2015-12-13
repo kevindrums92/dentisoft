@@ -1,0 +1,9 @@
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerEntities\bin\Debug\CustomerEntities.dll.config
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerEntities\bin\Debug\CustomerEntities.dll
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerEntities\bin\Debug\CustomerEntities.pdb
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerEntities\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerEntities\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerEntities\obj\Debug\CustomerEntities.dll
+C:\Users\Usuario\Downloads\angularjs-mvc-entityframework_restful_example-master\CustomerEntities\obj\Debug\CustomerEntities.pdb
